@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenTableNYTimes</string>
+    <string name="read_more">Read more</string>
+    <string name="published">Published</string>
+    <string name="opening">Opening</string>
+    <string name="updated">Updated</string>
+    <string name="rating">Rating</string>
+    <string name="critics_pick">Critics Pick</string>
+    <string name="error_message">No internet connection</string>
+</resources>
